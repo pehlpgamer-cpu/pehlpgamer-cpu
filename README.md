@@ -5,14 +5,5 @@
 
 - 🌱 I’m currently learning **laravel 12, react, typescript & tailwind**
 
-| Tech/ Tool  | experience |
-|---|---|
-| react  | meh   |
-|---|---|
-|   |   |
-|---|---|
-|   |   |
-|---|---|
-|   |   |
-|---|---|
-|   |   |
+<h1>Tech-stack & Tools</h1>
+- Typescript #learning
