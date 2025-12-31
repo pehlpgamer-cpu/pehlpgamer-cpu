@@ -6,4 +6,8 @@
 - 🌱 I’m currently learning **laravel 12, react, typescript & tailwind**
 
 <h1>Tech-stack & Tools</h1>
-- Typescript #learning
+<ul>
+  <li>React</li>
+  <li>Typescript</li>
+  <li></li>
+</ul> 
