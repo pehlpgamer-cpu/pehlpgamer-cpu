@@ -47,14 +47,29 @@
 ###
 
 <div align="center">
+  <picture>
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=github_dark&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=default&include_all_commits=true" media="(prefers-color-scheme: light)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=default&include_all_commits=true" />
+  </picture>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=pehlpgamer-cpu&show_icons=true&include_all_commits=true&theme=dracula" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pehlpgamer-cpu&layout=compact&theme=dracula" height="150" />
-
-<img src="https://streak-stats.demolab.com?user=pehlpgamer-cpu&theme=dracula" height="150" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pehlpgamer-cpu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whiplashx&theme=github_dark&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whiplashx&theme=default&include_all_commits=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whiplashx&theme=default&include_all_commits=true" />
+  </picture>
+  
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whiplashx&theme=github_dark&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whiplashx&theme=default&include_all_commits=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whiplashx&theme=default&include_all_commits=true" />
+  </picture>
+  
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whiplashx&theme=github_dark&utcOffset=8&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whiplashx&theme=default&utcOffset=8&include_all_commits=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whiplashx&theme=default&utcOffset=8&include_all_commits=true" />
+  </picture>
 </div>
 
 ###
