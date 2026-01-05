@@ -1,22 +1,25 @@
 <h1 align="center">👋 I'm Paulo E. Heymann</h3>
-<table style="width:100%; border-collapse: collapse; text-align:center;">
-  <tr>
-    <td style="border:1px solid #444; padding:12px; border-radius:8px;">
-      🎓 <strong>2nd year BSIT student</strong>
-    </td>
-    <td style="border:1px solid #444; padding:12px; border-radius:8px;">
-      🇵🇭 <strong>From the Philippines</strong>
-    </td>
-  </tr>
-  <tr>
-    <td style="border:1px solid #444; padding:12px; border-radius:8px;">
-      📚 <strong>Soon to be a Fullstack Developer</strong>
-    </td>
-    <td style="border:1px solid #444; padding:12px; border-radius:8px;">
-      🔍 <strong>Looking for real-world experience</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="width:100%; border-collapse: collapse; text-align:center;">
+    <tr>
+      <td style="border:1px solid #444; padding:12px; border-radius:8px;">
+        🎓 <strong>2nd year BSIT student</strong>
+      </td>
+      <td style="border:1px solid #444; padding:12px; border-radius:8px;">
+        🇵🇭 <strong>From the Philippines</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #444; padding:12px; border-radius:8px;">
+        📚 <strong>Soon to be a Fullstack Developer</strong>
+      </td>
+      <td style="border:1px solid #444; padding:12px; border-radius:8px;">
+        🔍 <strong>Looking for real-world experience</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ###
 
