@@ -1,14 +1,14 @@
-<h3 align="center">I'm Paulo E. Heymann, a 2nd year BSIT student that's looking for opportunities to gain real-world experience.</h3>
+<h1 align="center">👋 I'm Paulo E. Heymann</h3>
+<h3 align="center">🎓 2nd year BSIT student </h3>
+<h3 align="center">🇵🇭 From the Philippines</h3>
+<h3 align="center">📚 Soon to be a fullstack developer</h3>
+<h3 align="center">🔍 looking for opportunities to gain real-world experience.</h3>
 
 ###
 
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=FULLSTACK%20DEV&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
 ###
 
-<h2 align="center">Currently Studying</h2>
+<h2 align="center">🔬 Currently Studying</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="center">Skills I want to learn</h2>
+<h2 align="center">🎯 Skills I want to learn</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 </div>
 
 ###
-
+<div> </div>
 <div align="center">
   <picture>
   <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=github_dark&include_all_commits=true" media="(prefers-color-scheme: dark)" />
