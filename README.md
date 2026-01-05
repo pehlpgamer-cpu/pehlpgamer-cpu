@@ -1,56 +1,62 @@
 <h1 align="center">👋 I'm Paulo E. Heymann</h3>
-<h3 align="center">🎓 2nd year BSIT student </h3>
-<h3 align="center">🇵🇭 From the Philippines</h3>
-<h3 align="center">📚 Soon to be a fullstack developer</h3>
-<h3 align="center">🔍 looking for opportunities to gain real-world experience.</h3>
+<table style="width:100%; border-collapse: collapse; text-align:center;">
+  <tr>
+    <td style="border:1px solid #444; padding:12px; border-radius:8px;">
+      🎓 <strong>2nd year BSIT student</strong>
+    </td>
+    <td style="border:1px solid #444; padding:12px; border-radius:8px;">
+      🇵🇭 <strong>From the Philippines</strong>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #444; padding:12px; border-radius:8px;">
+      📚 <strong>Soon to be a Fullstack Developer</strong>
+    </td>
+    <td style="border:1px solid #444; padding:12px; border-radius:8px;">
+      🔍 <strong>Looking for real-world experience</strong>
+    </td>
+  </tr>
+</table>
 
 ###
 
 ###
 
-<div
-  style="
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    width: 100%;
-    border: 1px solid #30363d;
-    border-radius: 6px;
-    overflow: hidden;
-  "
->
+<h2 align="center">🔬 Currently Studying</h2>
 
-  <!-- Left Column -->
-  <div style="padding: 16px; border-right: 1px solid #30363d; text-align: center;">
-    <h3>🔬 Currently Studying</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS" />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  </div>
+###
 
-  <!-- Right Column -->
-  <div style="padding: 16px; text-align: center;">
-    <h3>🎯 Skills I Want to Learn</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="Electron" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  </div>
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
 
+###
+
+<h2 align="center">🎯 Skills I want to learn</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</div>
 
 
 ###
