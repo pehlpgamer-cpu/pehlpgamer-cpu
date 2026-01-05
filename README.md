@@ -8,7 +8,7 @@
 
 ###
 
-<table align="center" width="100%">
+<table align="center" width="100vw">
   <tr>
     <th align="center">🔬 Currently Studying</th>
     <th align="center">🎯 Skills I Want to Learn</th>
