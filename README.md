@@ -8,13 +8,13 @@
 
 ###
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <th align="center">🔬 Currently Studying</th>
     <th align="center">🎯 Skills I Want to Learn</th>
   </tr>
   <tr>
-    <td align="center" width="50%">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -25,7 +25,7 @@
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
     </td>
-    <td align="center" width="50%">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
@@ -40,6 +40,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ###
