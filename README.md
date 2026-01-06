@@ -2,10 +2,6 @@
 <div align="center">
   <table style="width:100%; border-collapse: collapse; text-align:left;">
     <tr>
-      <td style="width:10px; font-size:24px; text-align:center;"> </td>
-      <td style="padding:8px; font-weight:bold;"> </td>
-    </tr>
-    <tr>
       <td style="width:10px; font-size:24px; text-align:center;">🎓</td>
       <td style="padding:8px; font-weight:bold;">2nd year BSIT student</td>
     </tr>
