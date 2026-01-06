@@ -58,7 +58,7 @@
 
 
 ###
-<h2 align="center">Stats</h2>
+<h2 align="center">Statistics</h2>
 <div align="center">
   <picture>
   <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whiplashx&theme=github_dark&include_all_commits=true" media="(prefers-color-scheme: dark)" />
