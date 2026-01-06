@@ -1,23 +1,28 @@
 <h1 align="center">👋 I'm Paulo E. Heymann</h3>
 <div align="center">
-  <table style="width:100%; border-collapse: collapse; text-align:center;">
+  <table style="width:100%; border-collapse: collapse; text-align:left;">
     <tr>
-      <td style="border:1px solid #444; padding:12px; border-radius:8px;">
-        🎓 <strong>2nd year BSIT student</strong>
-      </td>
-      <td style="border:1px solid #444; padding:12px; border-radius:8px;">
-        🇵🇭 <strong>From the Philippines</strong>
-      </td>
+      <td style="width:10px; font-size:24px; text-align:center;"> </td>
+      <td style="padding:8px; font-weight:bold;"> </td>
     </tr>
     <tr>
-      <td style="border:1px solid #444; padding:12px; border-radius:8px;">
-        📚 <strong>Soon to be a Fullstack Developer</strong>
-      </td>
-      <td style="border:1px solid #444; padding:12px; border-radius:8px;">
-        🔍 <strong>Looking for real-world experience</strong>
-      </td>
+      <td style="width:10px; font-size:24px; text-align:center;">🎓</td>
+      <td style="padding:8px; font-weight:bold;">2nd year BSIT student</td>
+    </tr>
+    <tr>
+      <td style="width:10px; font-size:24px; text-align:center;">🇵🇭</td>
+      <td style="padding:8px; font-weight:bold;">From the Philippines</td>
+    </tr>
+    <tr>
+      <td style="width:10px; font-size:24px; text-align:center;">📚</td>
+      <td style="padding:8px; font-weight:bold;">Soon to be a Fullstack Developer</td>
+    </tr>
+    <tr>
+      <td style="width:10px; font-size:24px; text-align:center;">🔍</td>
+      <td style="padding:8px; font-weight:bold;">Looking for real-world experience</td>
     </tr>
   </table>
+
 </div>
 
 
