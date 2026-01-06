@@ -18,16 +18,12 @@
       <td style="padding:8px; font-weight:bold;">Looking for real-world experience</td>
     </tr>
   </table>
-
 </div>
 
-
 ###
 
-###
 <picture>
   <h2 align="center">🔬 Currently Studying</h2>
-  ###
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
     <img width="12" />
@@ -39,12 +35,10 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   </div>
-  ###
 </picture>
 
 <picture>
   <h2 align="center">🎯 Skills I want to learn</h2>
-  ###
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
     <img width="12" />
@@ -58,7 +52,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   </div>
-  ###
 </picture>
 
 
