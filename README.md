@@ -23,7 +23,7 @@
 ###
 
 <img>
-  <h2 align="center">🔬 Currently Studying</h2>
+  <h1 align="center">🔬 Currently Studying</h2>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
     <img width="12" />
@@ -38,7 +38,7 @@
 </img>
 
 <img>
-  <h2 align="center">🎯 Skills I want to learn</h2>
+  <h1 align="center">🎯 Skills I want to learn</h2>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
     <img width="12" />
